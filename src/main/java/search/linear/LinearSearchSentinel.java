@@ -6,7 +6,7 @@ public class LinearSearchSentinel {
 
     static int linearSearchSentinel(int[] arr, int target) {
         int size = arr.length;
-
+        return 0;
 
 
 
